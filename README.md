@@ -4,4 +4,4 @@ This project integrates with the RoTrack API, allowing you to make requests to v
 
 ## Endpoints
 
-You can view available endpoints on the {RoTrack API}[https://api.rotrack.xyz/endpoints]
+You can view available endpoints on the [RoTrack API](https://api.rotrack.xyz/endpoints)
